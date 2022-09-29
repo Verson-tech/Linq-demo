@@ -1,0 +1,15 @@
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\bin\Debug\net6.0\LInq-demo.exe
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\bin\Debug\net6.0\LInq-demo.deps.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\bin\Debug\net6.0\LInq-demo.runtimeconfig.json
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\bin\Debug\net6.0\LInq-demo.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\bin\Debug\net6.0\LInq-demo.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.AssemblyInfo.cs
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\refint\LInq-demo.dll
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.pdb
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\LInq-demo.genruntimeconfig.cache
+C:\Users\Vera\Desktop\TrueCoders\repos\Module 3\LInq-demo\LInq-demo\obj\Debug\net6.0\ref\LInq-demo.dll
